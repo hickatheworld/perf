@@ -1,6 +1,6 @@
 {
   "name": "perf",
-  "version": "1.0.0",
+  "version": "1.0.0-dev",
   "description": "CLI to test a JavaScript instruction performance",
   "main": "dist/index.js",
   "keywords": [],
